@@ -76,9 +76,9 @@
 
 #### Pronoms
 
-je - moi - ma
-tu - toi - te
-vous - vous - vous
+* je - moi - ma
+* tu - toi - te
+* vous - vous - vous
 
 #### Verbes
 
