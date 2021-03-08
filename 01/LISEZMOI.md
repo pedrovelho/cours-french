@@ -82,19 +82,19 @@
 
 #### Verbes
 
-appelle - *chamar*
-avoir - *ter*
-être - *ser/estar*
-aller - *ir/vir*
-parler - *falar*
-faire - *fazer*
-manger - *comer*
+* appelle - *chamar*
+* avoir - *ter*
+* être - *ser/estar*
+* aller - *ir/vir*
+* parler - *falar*
+* faire - *fazer*
+* manger - *comer*
 
 #### Exemples
 
-je m'appelle
-tu t'appelle
-vous vous appelez
+* je m'appelle
+* tu t'appelle
+* vous vous appelez
 
 - Appelle moi!? - *me liga!?*
   - Ok je t'appelle! - *ok te ligo!*
@@ -102,9 +102,9 @@ vous vous appelez
 - C'est à qui? - *De quem é a vez?*
   - À moi! Non c'est à toi! - *É minha! Não é tua!*
 
-J'ai = Je + ai
-Tu as
-Vous avez
+* J'ai = Je + ai
+* Tu as
+* Vous avez
 
 - Tu as quelle age? - *Quantos anos tu tens?*
   - J'ai 30 ans! - *Eu tenho 30 anos.*
@@ -112,9 +112,9 @@ Vous avez
 - Vous avez quelle age madame?
   - J'ai 76 ans monsieur!
 
-Je suis
-tu es
-Vous êtes
+* Je suis
+* tu es
+* Vous êtes
 
 - Je suis bien ici! - *Estou bem aqui!*
 
@@ -122,9 +122,9 @@ Vous êtes
 
 - Vous êtes docteur? - *Você é @ doutor@?*
 
-Je vais
-Tu va
-Vous allez
+* Je vais
+* Tu va
+* Vous allez
 
 - Salut! Tu va où? - *Tchau! Onde tu vais?*
   - J'y vais au marcher! - *Vou na feira!*
