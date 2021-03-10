@@ -49,6 +49,28 @@ en ajoutant les formules de politesse.
 - Merci George!
   - À votre service!
 
+Les pronoms: 
+
+- Je
+- Tu
+- Il/Elle
+- Nous
+- Vous
+- Ils/Elles/On
+
+
+- Tu parle Français?
+  - Non, mais je parle Anglais!
+
+- Il parle Espagnol et elle parle Portugais.
+
+- Nous parlons tous Portugais.
+
+- Vous parlez français?
+
+- Elles parlent bien français. Bravo!
+
+
 ## Grammaire
 
 La conjugaison au présent, les verbe se modifie pour désigné le pronom utilisé.
@@ -76,3 +98,13 @@ Certain verbe régulier:
   - cherch**er**
   - aim**er**
 
+Grammaire exercise 1.1.
+
+Verbe être (*ser/estar*), peut-être le plus utilisé en français est irrégulier.
+
+Je suis
+Tu es
+Il/Elle est
+Nous sommes
+vous êtes
+Ils/Elles sont

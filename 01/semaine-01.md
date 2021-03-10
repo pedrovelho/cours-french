@@ -126,7 +126,6 @@
 À l'orale je suis deviens TRÈS souvent *Chui*, c'est 
 la forme la plus entendu.
 
-
 - Tu es marié? - *Tu é casado?*
   - Oui, chui marrié! - *Sim, so casado!*
 
