@@ -10,7 +10,7 @@ Avant en EPE...
   - Bonjour/salut
   - Comment allez vous?/ça va?/tu va bien?/comment va tu?
   - Au revoir/salut
-  - Bonné journée/ã bientôt?
+  - Bonné journée/à bientôt?
 
 * Verbes
   - appel**er**
