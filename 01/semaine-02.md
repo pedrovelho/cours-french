@@ -35,7 +35,7 @@ Les formule de politesse:
 
 ### Exercise Orale
 
-Formuler de phrase en mélangeant les phrase pour se presenter (voir semaine 1) 
+Formuler des phrases en mélangeant les phrase pour se presenter (voir semaine 1) 
 en ajoutant les formules de politesse.
 
 - Bonjour, comment allez vous?
