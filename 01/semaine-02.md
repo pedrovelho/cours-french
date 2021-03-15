@@ -4,7 +4,7 @@
 
 ## Rappel
 
-Previous en EPE...
+Avant en EPE...
 
 * Se presenter: 
   - Bonjour/salut
