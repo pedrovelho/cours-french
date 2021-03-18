@@ -4,51 +4,54 @@
 
 ## Vocabulaire
 
+
 Les chiffres:
-  1- un
-  2- deux
-  * trois
-  * quatre
-  * cinq
-  * six
-  * sept
-  * huit
-  * neuf
-  * dix
-  * onze
-  * douze
-  * treize
-  * quatorze
-  * quinze
-  * seize
-  * dix-sept
-  * dix-huit
-  * dix-neuf
-  * vingt
-  * vint et un
-  * vint et deux
+  1. un
+  2. deux
+  3. trois
+  4. quatre
+  5. cinq
+  6. six
+  7. sept
+  8. huit
+  9. neuf
+  10. dix
+  11. onze
+  12. douze
+  13. treize
+  14. quatorze
+  15. quinze
+  16. seize
+  17. dix-sept
+  18. dix-huit
+  19. dix-neuf
+  20. vingt
+  21. vint et un
+  22. vint et deux
   * ...
-  * trente
-  * trente et un
-  * trente et deux
+  30. trente
+  31. trente et un
+  32 trente et deux
   * ...
-  * quarante
+  40. quarante
   * ...
-  * soixante
+  50. cinquante
   * ...
-  * soixante-dix
+  60. soixante
   * ...
-  * quatre-vingt
+  70. soixante-dix
   * ...
-  * quatre-vingt-dix
+  80. quatre-vingt
   * ...
-  * cent
+  90. quatre-vingt-dix
   * ...
-  * mil
+  100. cent
   * ...
-  * millon
+  1000. mil
   * ...
-  * millard
+  1000000. millon
+  * ...
+  1000000000. millard
 
 
 
