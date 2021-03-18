@@ -74,6 +74,11 @@ Les chiffres:
 
 - Il reste encore 6 jours pour la fin de l'hiver!
 
+- Quelle age as tu?
+
+- Combien ça coûte?
+  - 37 €
+
 ## Grammaire
 
 Verbe être et avoir au présent de l'indicatif.
@@ -82,7 +87,7 @@ Verbe être et avoir au présent de l'indicatif.
 
 * **Je** **suis**
 * **Tu** **es**
-* **Elle/Il** **est**
+* **Elle/Il/On** **est**
 * **Nous** **sommes**
 * **Vous** **êtes**
 * **Elles/Ils** **sont**
@@ -109,6 +114,7 @@ Le verbe être est utilisé dans de nombreuse expression.
 1.7, página 22
 1.8, página 24
 3.1, página 38
+3.2, página 39
 
 
 ### Avoir
@@ -138,4 +144,5 @@ Le verbe avoir est aussi beaucoup utilisé en français.
 
 ## Exercise
 
-
+3.3, página 40
+3.4, página 41
