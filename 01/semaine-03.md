@@ -5,55 +5,50 @@
 ## Vocabulaire
 
 
-Les chiffres:
-  1. un
-  2. deux
-  3. trois
-  4. quatre
-  5. cinq
-  6. six
-  7. sept
-  8. huit
-  9. neuf
-  10. dix
-  11. onze
-  12. douze
-  13. treize
-  14. quatorze
-  15. quinze
-  16. seize
-  17. dix-sept
-  18. dix-huit
-  19. dix-neuf
-  20. vingt
-  21. vint et un
-  22. vint et deux
-  * ...
-  30. trente
-  31. trente et un
-  32 trente et deux
-  * ...
-  40. quarante
-  * ...
-  50. cinquante
-  * ...
-  60. soixante
-  * ...
-  70. soixante-dix
-  * ...
-  80. quatre-vingt
-  * ...
-  90. quatre-vingt-dix
-  * ...
-  100. cent
-  * ...
-  1000. mil
-  * ...
-  1000000. millon
-  * ...
-  1000000000. millard
-
-
+* Les chiffres:
+  * 1 un
+  * 2 deux
+  * 3 trois
+  * 4 quatre
+  * 5 cinq
+  * 6 six
+  * 7 sept
+  * 8 huit
+  * 9 neuf
+  * 10 dix
+  * 11 onze
+  * 12 douze
+  * 13 treize
+  * 14 quatorze
+  * 15 quinze
+  * 16 seize
+  * 17 dix-sept
+  * 18 dix-huit
+  * 19 dix-neuf
+  * 20 vingt
+  * 21 vint et un
+  * 22 vint et deux
+  * [...]
+  * 30 trente
+  * 31 trente et un
+  * 32 trente et deux
+  * [...]
+  * 40 quarante
+  * [...]
+  * 50 cinquante
+  * [...]
+  * 60 soixante
+  * [...]
+  * 70 soixante-dix
+  * [...]
+  * 80 quatre-vingt
+  * [...]
+  * 90 quatre-vingt-dix
+  * [...]
+  * 100 cent
+  * 1000 mil
+  * 1 000 000 millon
+  * 1 000 000 000 millard
 
 * Les mois
   * janvier
@@ -78,27 +73,28 @@ Les chiffres:
 
 - J'achète 1 tomate, 2 pommes, 5 kilo de farine et 11 bananes.
 
+- Combien ça coûte?
+  - 37 €
+
 - Les cours commencent en janvier.
 
-- Nous sommes en mars.
+- Nous sommes au mois de mars.
 
 - En octobre l'été se termine.
 
-- La season du printemps commence en Mars.
+- La season du printemps commence bientôt.
 
 - Ça coûte 11 euros.
 
 - Quelle age as tu?
   - J'ai 24 ans.
 
-- J'ai 13 ans.
+- Quelle age as tu?
+  - J'ai 13 ans.
 
 - Il reste encore 6 jours pour la fin de l'hiver!
 
-- Quelle age as tu?
-
-- Combien ça coûte?
-  - 37 €
+- J'ai 184 billes.
 
 ## Grammaire
 
@@ -115,15 +111,15 @@ Verbe être et avoir au présent de l'indicatif.
 
 Le verbe être est utilisé dans de nombreuse expression.
 
-* Pour demander l'heure : **Quelle here est-il?** 
+* Pour demander l'heure : **Quelle heure est-il?** 
   * Il est 11:11.
-* Pour donner un idée de temps continue : **être en train de**
+* Pour donner une idée de temps continue : **être en train de**
   * Je suis en train de étudier le français.
   * Tu es en train de travailler?
   * Elle sont en train de manger.
   * Il est en train de parler.
   * Nous sommes en train de regarder un filme.
-  * Êtes vous en train de annuler le rendez-vous?
+  * Êtes vous en train d'annuler le rendez-vous?
 * Pour faire des phrase impersonnel:
   * C'est bien ce filme! **opinion**
   * C'est bon le chocolat! **sensation**
