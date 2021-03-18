@@ -5,34 +5,52 @@
 ## Vocabulaire
 
 Les chiffres:
+  1- un
+  2- deux
+  * trois
+  * quatre
+  * cinq
+  * six
+  * sept
+  * huit
+  * neuf
+  * dix
+  * onze
+  * douze
+  * treize
+  * quatorze
+  * quinze
+  * seize
+  * dix-sept
+  * dix-huit
+  * dix-neuf
+  * vingt
+  * vint et un
+  * vint et deux
+  * ...
+  * trente
+  * trente et un
+  * trente et deux
+  * ...
+  * quarante
+  * ...
+  * soixante
+  * ...
+  * soixante-dix
+  * ...
+  * quatre-vingt
+  * ...
+  * quatre-vingt-dix
+  * ...
+  * cent
+  * ...
+  * mil
+  * ...
+  * millon
+  * ...
+  * millard
 
-* un
-* deux
-* trois
-* quatre
-* cinq
-* six
-* sept
-* huit
-* neuf
-* dix
-* onze
-* douze
-* treize
-* quatorze
-* quinze
-* seize
-* dix-sept
-* dix-huit
-* dix-neuf
-* vingt
-* vint et un
-* vint et deux
-* ...
-* trente
-* trente et un
-* trente et deux
-* ...
+
 
 * Les mois
   * janvier
