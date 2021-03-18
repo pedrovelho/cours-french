@@ -67,18 +67,29 @@
 
 ### Pronoms
 
-* je - moi - ma
+Je m'appelle Pedro
+
+Tu t'appelles Carolina
+
+Vous vous appelez Zanchet
+
+* je - moi - me
 * tu - toi - te
 * vous - vous - vous
 
 ### Verbes
 
-* appelle - *chamar*
+#### Irrégulier
+
+* faire - *fazer*
 * avoir - *ter*
 * être - *ser/estar*
 * aller - *ir/vir*
+
+#### Régulier
+
+* appelle - *chamar*
 * parler - *falar*
-* faire - *fazer*
 * manger - *comer*
 
 ### Exemples
@@ -118,7 +129,7 @@
 * Vous allez
 
 - Salut! Tu va où? - *Tchau! Onde tu vais?*
-  - J'y vais au marcher! - *Vou na feira!*
+  - Je vais au marchê! - *Vou na feira!*
 
 
 ### Argos
