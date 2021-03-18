@@ -129,7 +129,7 @@ Vous vous appelez Zanchet
 * Vous allez
 
 - Salut! Tu va où? - *Tchau! Onde tu vais?*
-  - Je vais au marchê! - *Vou na feira!*
+  - Je vais au marché! - *Vou na feira!*
 
 
 ### Argos
@@ -141,3 +141,5 @@ la forme la plus entendu.
   - Oui, chui marrié! - *Sim, so casado!*
 
 - Chui célibataire!
+
+Chui = Je suis
