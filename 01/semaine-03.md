@@ -47,7 +47,7 @@ Les chiffres:
   * novembre
   * décembre
 
-* La season
+* Les saisons
   * hiver
   * printemps
   * été
@@ -108,7 +108,7 @@ Le verbe être est utilisé dans de nombreuse expression.
   * C'est bon le chocolat! **sensation**
 
 
-## Exercise
+#### Exercise
 
 1.6, página 22
 1.7, página 22
@@ -142,7 +142,7 @@ Le verbe avoir est aussi beaucoup utilisé en français.
 * Pour designer l'existence de: **Il y a**
   * Il y a une voiture dehors.
 
-## Exercise
+#### Exercise
 
 3.3, página 40
 3.4, página 41
