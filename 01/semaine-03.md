@@ -26,12 +26,12 @@
   * 18 dix-huit
   * 19 dix-neuf
   * 20 vingt
-  * 21 vint et un
-  * 22 vint et deux
+  * 21 vignt et un
+  * 22 vignt-deux
   * [...]
   * 30 trente
   * 31 trente et un
-  * 32 trente et deux
+  * 32 trente-deux
   * [...]
   * 40 quarante
   * [...]
@@ -40,11 +40,29 @@
   * 60 soixante
   * [...]
   * 70 soixante-dix
-  * [...]
+  * 71 soixante-onze
+  * 72 soixante-douze
+  * 73 soixante-treze
+  * 74 soixante-quatorze
+  * 75 soixante-quinze
+  * 76 soixante-seze
+  * 77 soixante-dix-sept
+  * 78 soixante-dix-huit
+  * 79 soixante-dix-neuf
   * 80 quatre-vingt
+  * 81 quatre-vingt-un
+  * 82 quatre-vingt-deux
   * [...]
   * 90 quatre-vingt-dix
-  * [...]
+  * 91 quatre-vingt-onze
+  * 92 quatre-vingt-douze
+  * 93 quatre-vingt-treze
+  * 94 quatre-vingt-quatorze
+  * 95 quatre-vingt-quinze
+  * 96 quatre-vingt-seze
+  * 97 quatre-vingt-dix-sept
+  * 98 quatre-vingt-dix-huit
+  * 99 quatre-vingt-dix-neux
   * 100 cent
   * 1000 mil
   * 1 000 000 millon
@@ -82,7 +100,7 @@
 
 - En octobre l'été se termine.
 
-- La season du printemps commence bientôt.
+- La saison du printemps commence bientôt.
 
 - Ça coûte 11 euros.
 
