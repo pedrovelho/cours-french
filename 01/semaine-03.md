@@ -120,12 +120,12 @@ Verbe être et avoir au présent de l'indicatif.
 
 ### Être
 
-* **Je** **suis**
-* **Tu** **es**
-* **Elle/Il/On** **est**
-* **Nous** **sommes**
-* **Vous** **êtes**
-* **Elles/Ils** **sont**
+* Je **suis**
+* Tu **es**
+* Elle/Il/On **est**
+* Nous **sommes**
+* Vous **êtes**
+* Elles/Ils **sont**
 
 Le verbe être est utilisé dans de nombreuse expression.
 
@@ -154,12 +154,31 @@ Le verbe être est utilisé dans de nombreuse expression.
 
 ### Avoir
 
-* **J'** **ai**
-* **Tu** **as**
-* **Elle/Il** **a**
-* **Nous** **avons**
-* **Vous** **avez**
-* **Elles/Ils** **ont**
+* J' **ai**
+* Tu **as**
+* Elle/Il **a**
+* Nous **avons**
+* Vous **avez**
+* Elles/Ils **ont**
+
+Le verbe avoir est utilisé pour exprimé l'existance de quelque chose d'une façon
+passive dans l'expressispon **il y a**. 
+
+* Il y a une voiture dehors.
+
+* Il y a des crayons.
+
+* Il y a cours de français aujourd'hui
+
+Ça peut aussi exprimer une durée de temps dans le passé.
+
+* Il y a 20 ans.
+
+* Il y a long temps.
+
+* Il y a un moment.
+
+Voici d'autres examples avec le verbe avoir.
 
 * Tu as quelles age?
   * J'ai 20 ans.
@@ -171,11 +190,6 @@ Le verbe être est utilisé dans de nombreuse expression.
 * Nous avons beaucoup de temps.
 
 * Vous avez un número?
-
-Le verbe avoir est aussi beaucoup utilisé en français.
-
-* Pour designer l'existence de: **Il y a**
-  * Il y a une voiture dehors.
 
 #### Exercise
 
