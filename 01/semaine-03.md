@@ -145,11 +145,11 @@ Le verbe être est utilisé dans de nombreuse expression.
 
 #### Exercise
 
-1.6, página 22
-1.7, página 22
-1.8, página 24
-3.1, página 38
-3.2, página 39
+- 1.6, página 22
+- 1.7, página 22
+- 1.8, página 24
+- 3.1, página 38
+- 3.2, página 39
 
 
 ### Avoir
@@ -193,5 +193,5 @@ Voici d'autres examples avec le verbe avoir.
 
 #### Exercise
 
-3.3, página 40
-3.4, página 41
+- 3.3, página 40
+- 3.4, página 41
