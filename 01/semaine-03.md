@@ -189,8 +189,6 @@ Voici d'autres examples avec le verbe avoir.
 
 * Nous avons beaucoup de temps.
 
-* Vous avez un número?
-
 #### Exercise
 
 - 3.3, página 40
