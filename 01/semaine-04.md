@@ -3,18 +3,18 @@
 
 ## Vocabulaire
 
-* torso
+* *torso* 
   * t-shirt
-  * chemise
+  * *chemise*
   * blouse
   * sweat
-  * débardeur
-  * décolleté
+  * *débardeur*
+  * *décolleté*
   * top
 
 * pied
   * chaussette
-  * chaussure
+  * *chaussure*
 	* talon
 	* basket - *godasse*
   
@@ -22,15 +22,15 @@
   * gants
 
 * jambes
-  * jupe
+  * *jupe*
   * bermuda
   * short
-  * pantalon
+  * *pantalon*
 	* jeans
 
 * pour tout le corp
   * robe
-  * pantalon
+  * salopette
 
 * sous-vêtements
   * soutien-gorge
@@ -39,10 +39,9 @@
   * collant
 
 * pour l'hiver
-  * doudoune
   * veste
   * anorak
-  * ciré
+  * *ciré*
 
 ## Exercise Orale
 
@@ -66,8 +65,30 @@
 
 ### Négation en français
 
+négation = ne + verbe + pas
 
-	  
-	
-	
+* Tu n'es pas ici.
 
+* Je ne vais pas à Paris.
+
+* Elle n'aime pas le chocolat.
+
+* Ils ne sont pas là aujourd'hui.
+
+* Nous ne sommes pas dehors.
+
+* Vous n'êtes pas marrié.
+
+* On ne parle pas comme ça.
+
+* Je ne ferme pas aujourd'hui.
+
+* Elles ne regardent pas un filme ce soir.
+
+* Tu ne mages pas du poisson.
+
+* Elle ne travaille pas chez elle.
+
+* Nous n'avons pas de voiture.
+
+* Ils n'ont pas de tickets.
