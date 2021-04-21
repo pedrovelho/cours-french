@@ -27,6 +27,17 @@ Je mange une brioche.
 
 Je part au travaille.
 
+Je fait ma toilette.
+
+* le jours de la semaine
+
+* Lundi - segunda
+* Mardi - terça
+* Mercredi - quarta
+* Jeudi - quinta
+* Vendredi - sexta
+* Samedi - sábado
+* Dimanche - domingo
 
 ## Exercise Orale
 
@@ -68,7 +79,7 @@ négation = ne + verbe + pas
 
 ## Exercises
 
-Écrivez un paragraphe pour raconter le petit déjeuner.
+Écrivez un paragraphe pour raconter le reveille.
 Vous pouvez mentioner bien les choses que vous ne faite pas au matin quand vous êtes en retard.
 
 Grammaire progressive du français -> Página 20 (19)
