@@ -86,3 +86,7 @@ Grammaire progressive du français -> Página 20 (19)
 
 
 
+## Activitées
+
+* Envoyez le paragraphe quand je me reveille par mail.
+* Faire un filme avec le scenario que le professeur vas envoyer par whatsapp.
